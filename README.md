@@ -113,42 +113,6 @@ Delivered actionable insights for decision-making
 
 Presented findings in a clear and visual format
 
-▶️ How to Run the Project
-
-Clone the repository
-
-git clone https://github.com/your-username/data-analytics-project.git
-
-
-Install required Python libraries
-
-pip install -r requirements.txt
-
-
-Open and run the Jupyter Notebook
-
-jupyter notebook
-
-
-Load cleaned data into your SQL database
-
-PostgreSQL / MySQL / SQL Server
-
-Open the Power BI file to view the dashboard
-
-Review the report and presentation files
-
-📄 Project Deliverables
-
-Python notebooks for EDA & cleaning
-
-SQL scripts
-
-Power BI dashboard (.pbix)
-
-Analytical report
-
-PPT presentation (Gamma)
 
 📬 Contact
 
